@@ -1,7 +1,7 @@
 messenger4j:
-  appSecret:
-  verifyToken :
-  pageAccessToken:
+  appSecret: b0bcfccab2fae5385e23831df2c360da
+  verifyToken : abcd
+  pageAccessToken: EAADoaN8sqTwBAK8tI0U6ZAVUTICKgzovcnK0MZBk3zp5HkFpWXpEitb7Sgjed6IXmgjRO27um9j0ulv7ZCFYrdQ5Mb5Aa4kisxKuZAqkRsHwKDGOiTHCZAkTZCUX40NpSb9GgaZAUxD86vt1ITNURjgZB5rkjKsWVJ59gx9ZC3vTr2QZDZD
 
 logging:
   level:
